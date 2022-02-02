@@ -1,0 +1,3 @@
+- Exercise: `Oche Console`
+- Language & test-framework: `Java 17, JUnit`
+- Approach: `TDD`
