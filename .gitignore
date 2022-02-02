@@ -1,0 +1,4 @@
+.vscode/launch.json
+.vscode/settings.json
+bin/test/TestOcheConsole.class
+bin/src/OcheConsole.class
